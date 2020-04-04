@@ -1,0 +1,21 @@
+{
+  "short_name": "ORC",
+  "name": "Oromo Resource Center",
+  "icons": [
+    {
+      "src": "favicon.ico",
+      "sizes": "48x48",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "odaaTree.png",
+      "type": "image/png",
+      "sizes": "154x108"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff",
+  "description": "Find Resources in One Place"
+}
