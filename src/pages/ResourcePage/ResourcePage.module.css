@@ -1,0 +1,19 @@
+.mainContent {
+  display: flex;
+  flex-direction: column;
+  margin: 0 auto;
+}
+
+.mainContent div {
+  margin-left: 1rem;
+}
+
+svg {
+  height: 1rem;
+}
+
+
+.mainContent div > div {
+  display: flex;
+  flex-direction: column;
+}
