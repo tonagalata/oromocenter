@@ -1,5 +1,5 @@
 {
-  "short_name": "Oromo Center",
+  "short_name": "ORC",
   "name": "Oromo Resource Center",
   "icons": [
     {
@@ -8,14 +8,9 @@
       "type": "image/x-icon"
     },
     {
-      "src": "logo192.png",
+      "src": "odaaTree.png",
       "type": "image/png",
-      "sizes": "192x192"
-    },
-    {
-      "src": "logo512.png",
-      "type": "image/png",
-      "sizes": "512x512"
+      "sizes": "154x108"
     }
   ],
   "start_url": ".",
